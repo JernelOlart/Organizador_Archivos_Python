@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Rutas de origen y destino
-carpeta_origen = r"F:\YULISSA DEL CARMEN"
-carpeta_destino = r"F:\YULISSA DEL CARMEN2"
+carpeta_origen = r"C:\CARPETA_DE_ORIGEN"
+carpeta_destino = r"C:\CARPETA_DE_DESTINO"
 
 # Asegurar que la carpeta de destino existe
 os.makedirs(carpeta_destino, exist_ok=True)
